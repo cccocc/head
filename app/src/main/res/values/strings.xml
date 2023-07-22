@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="xinshou">新手引导</string>
+    <string name="text1">点击屏幕中间按钮与您的助手对话</string>
+    <string name="shouye">首页</string>
+    <string name="yuedu">阅读</string>
+    <string name="beiwanglu">备忘录</string>
+    <string name="wode">我的</string>
+    <string name="string1">我是新手引导</string>
+    <string name="string2">我是按钮</string>
+</resources>

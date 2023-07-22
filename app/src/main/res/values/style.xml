@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- 定义一个透明的黑色背景样式 -->
+    <style name="TransparentBlackBackground">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">#80000000</item>
+    </style>
+
+</resources>
